@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ibn-salamat
-- 👀 I’m interested in developing projects
+- 👀 I’m interested in Golang, Rust, Swift, Flutter, GraphQl
 - 🌱 I’m currently learning Typescript, React Native
 - 📫 How to reach me message to me in n.salamatoff@gmail.com
 
