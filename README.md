@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ibn-salamat
-- 👀 I’m interested in Rust, Swift, Flutter, GraphQL
-- 🌱 I’m currently learning Typescript, React Native, Golang, Python
+- 👀 I’m interested in Rust, Swift, Flutter
+- 🌱 I’m currently learning Typescript, React Native, GraphQL, Golang, Python
 - 📫 How to reach me message to me in n.salamatoff@gmail.com
 
 <!---
