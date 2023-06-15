@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ibn-salamat
-- 👀 I’m interested in Golang
-- 🌱 I’m currently learning Golang
+- 👀 I’m interested in developing different applications
+- 🚀 I use JS, TS, React for Frontend, Go for Backend
 - 📫 How to reach me message to me in n.salamatoff@gmail.com
 
 <!---
